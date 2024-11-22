@@ -1,0 +1,24 @@
+Content includes exercises from the PDF.
+
+# Exercises
+
+## Exercise 2-1: Writing a Basic SQL Query
+**Task**: Write a query to return the names of all providers.
+
+Solution:
+
+SELECT 
+	Name
+FROM 
+	ProviderDim;
+
+Exercise 2-2: Writing a Multi-Column SQL Query
+Task: Modify the previous query to include provider names and their departments. 
+
+Solution:
+
+SELECT 
+	Name, 
+	PrimaryDepartment
+FROM 
+	ProviderDim;

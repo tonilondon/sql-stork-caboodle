@@ -1,0 +1,13 @@
+Content includes:
+- Using comments in SQL.
+
+# Comments and Best Practices
+
+## Comments in SQL
+- Single-line: `-- Comment here`
+- Multi-line: `/* Multi-line comment */`
+
+## Best Practices
+- Use consistent casing for readability.
+- Add whitespace to improve query clarity.
+- Use comments to explain complex logic.

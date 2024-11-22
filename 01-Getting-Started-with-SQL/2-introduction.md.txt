@@ -1,0 +1,10 @@
+# Introduction to SQL
+
+## What is SQL?
+- SQL (Structured Query Language) is used to interact with relational databases.
+- Declarative programming language for querying data.
+
+## The Relational Database
+- Made up of tables, rows, and columns.
+- Each table represents an entity (e.g., Patients, Providers).
+- Rows = records; Columns = attributes of the records.

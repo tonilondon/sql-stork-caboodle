@@ -1,0 +1,22 @@
+Content includes:
+
+Common troubleshooting tips.
+
+# Troubleshooting Tips
+
+1. **Read the Error Message**:
+   - SQL error messages often guide you to the issue.
+
+2. **Check Your Syntax**:
+   - Verify spelling of table/column names.
+   - Ensure proper placement of commas and keywords.
+
+3. **Verify the Database**:
+   - Use the `USE` directive to switch databases.
+
+Example:
+```sql
+USE Caboodle_Feb;
+
+4. **Ask for Help**:
+- Contact trainers or refer to documentation.

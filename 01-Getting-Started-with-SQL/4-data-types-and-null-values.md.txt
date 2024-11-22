@@ -1,0 +1,16 @@
+Content includes:
+- SQL data types.
+- Handling NULL values.
+
+```markdown
+# SQL Data Types and NULL Values
+
+## Common SQL Data Types
+- **Character Strings**: `VARCHAR`, `NVARCHAR`
+- **Numeric**: `INT`, `FLOAT`, `NUMERIC`
+- **Date/Time**: `DATE`, `DATETIME`
+
+## Handling NULL Values
+- `NULL` represents the absence of data.
+- Columns allowing NULL values are called nullable.
+- Primary keys cannot be NULL.

@@ -1,0 +1,20 @@
+# Writing Your First SQL Query
+
+## Basic SQL Syntax
+A SQL query requires at least two clauses:
+1. **SELECT**: Specifies the columns to retrieve.
+2. **FROM**: Specifies the table to query.
+
+### Example:
+```sql
+SELECT City
+FROM PatientDim;
+
+SQL Clauses Execution Order
+FROM
+WHERE
+GROUP BY
+HAVING
+SELECT
+ORDER BY
+This order affects how queries are processed by the database.
